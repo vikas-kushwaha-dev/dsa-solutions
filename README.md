@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [leetcode/easy/0551-student-attendance-record-i](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0551-student-attendance-record-i) |
+## Database
+|  |
+| ------- |
+| [leetcode/easy/0595-big-countries](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0595-big-countries) |
 <!---LeetCode Topics End-->
