@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [leetcode/easy/0551-student-attendance-record-i](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0551-student-attendance-record-i) |
+| [leetcode/hard/2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/hard/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Database
 |  |
 | ------- |
@@ -28,4 +29,16 @@
 |  |
 | ------- |
 | [leetcode/easy/0217-contains-duplicate](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [leetcode/hard/2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/hard/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [leetcode/hard/2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/hard/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Greedy
+|  |
+| ------- |
+| [leetcode/hard/2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/hard/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
