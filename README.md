@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [leetcode/easy/0001-two-sum](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0001-two-sum) |
+| [leetcode/easy/0217-contains-duplicate](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0217-contains-duplicate) |
 | [leetcode/easy/1480-running-sum-of-1d-array](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
 | [leetcode/easy/0001-two-sum](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0001-two-sum) |
+| [leetcode/easy/0217-contains-duplicate](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -22,4 +24,8 @@
 |  |
 | ------- |
 | [leetcode/easy/1480-running-sum-of-1d-array](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/1480-running-sum-of-1d-array) |
+## Sorting
+|  |
+| ------- |
+| [leetcode/easy/0217-contains-duplicate](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
