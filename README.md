@@ -50,4 +50,8 @@
 |  |
 | ------- |
 | [leetcode/medium/0167-two-sum-ii-input-array-is-sorted](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0167-two-sum-ii-input-array-is-sorted) |
+## Linked List
+|  |
+| ------- |
+| [leetcode/easy/0083-remove-duplicates-from-sorted-list](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
