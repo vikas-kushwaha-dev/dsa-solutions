@@ -54,4 +54,8 @@
 |  |
 | ------- |
 | [leetcode/easy/0083-remove-duplicates-from-sorted-list](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0083-remove-duplicates-from-sorted-list) |
+## Math
+|  |
+| ------- |
+| [leetcode/easy/0009-palindrome-number](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0009-palindrome-number) |
 <!---LeetCode Topics End-->
