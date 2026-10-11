@@ -9,6 +9,7 @@
 | [leetcode/easy/0217-contains-duplicate](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0217-contains-duplicate) |
 | [leetcode/easy/0977-squares-of-a-sorted-array](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0977-squares-of-a-sorted-array) |
 | [leetcode/easy/1480-running-sum-of-1d-array](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/1480-running-sum-of-1d-array) |
+| [leetcode/easy/2778-sum-of-squares-of-special-elements](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [leetcode/easy/0009-palindrome-number](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0009-palindrome-number) |
+## Enumeration
+|  |
+| ------- |
+| [leetcode/easy/2778-sum-of-squares-of-special-elements](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
