@@ -7,6 +7,7 @@
 | [leetcode/easy/0001-two-sum](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0001-two-sum) |
 | [leetcode/medium/0015-3sum](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0015-3sum) |
 | [leetcode/medium/0016-3sum-closest](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0016-3sum-closest) |
+| [leetcode/easy/0026-remove-duplicates-from-sorted-array](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0026-remove-duplicates-from-sorted-array) |
 | [leetcode/medium/0075-sort-colors](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0075-sort-colors) |
 | [leetcode/medium/0167-two-sum-ii-input-array-is-sorted](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0167-two-sum-ii-input-array-is-sorted) |
 | [leetcode/easy/0217-contains-duplicate](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0217-contains-duplicate) |
@@ -44,6 +45,7 @@
 | ------- |
 | [leetcode/medium/0015-3sum](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0015-3sum) |
 | [leetcode/medium/0016-3sum-closest](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0016-3sum-closest) |
+| [leetcode/easy/0026-remove-duplicates-from-sorted-array](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0026-remove-duplicates-from-sorted-array) |
 | [leetcode/medium/0075-sort-colors](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0075-sort-colors) |
 | [leetcode/medium/0167-two-sum-ii-input-array-is-sorted](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0167-two-sum-ii-input-array-is-sorted) |
 | [leetcode/easy/0977-squares-of-a-sorted-array](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0977-squares-of-a-sorted-array) |
