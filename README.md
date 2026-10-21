@@ -14,6 +14,7 @@
 | [leetcode/easy/0977-squares-of-a-sorted-array](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0977-squares-of-a-sorted-array) |
 | [leetcode/easy/1480-running-sum-of-1d-array](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/1480-running-sum-of-1d-array) |
 | [leetcode/easy/2778-sum-of-squares-of-special-elements](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/2778-sum-of-squares-of-special-elements) |
+| [leetcode/easy/4052-cyclically-shift-rows-and-columns](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/4052-cyclically-shift-rows-and-columns) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +83,12 @@
 |  |
 | ------- |
 | [leetcode/medium/0075-sort-colors](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [leetcode/easy/4052-cyclically-shift-rows-and-columns](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/4052-cyclically-shift-rows-and-columns) |
+## Simulation
+|  |
+| ------- |
+| [leetcode/easy/4052-cyclically-shift-rows-and-columns](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/4052-cyclically-shift-rows-and-columns) |
 <!---LeetCode Topics End-->
