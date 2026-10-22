@@ -10,6 +10,7 @@
 | [leetcode/easy/0026-remove-duplicates-from-sorted-array](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0026-remove-duplicates-from-sorted-array) |
 | [leetcode/medium/0075-sort-colors](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0075-sort-colors) |
 | [leetcode/medium/0167-two-sum-ii-input-array-is-sorted](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0167-two-sum-ii-input-array-is-sorted) |
+| [leetcode/medium/0209-minimum-size-subarray-sum](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0209-minimum-size-subarray-sum) |
 | [leetcode/easy/0217-contains-duplicate](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0217-contains-duplicate) |
 | [leetcode/easy/0977-squares-of-a-sorted-array](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0977-squares-of-a-sorted-array) |
 | [leetcode/easy/1480-running-sum-of-1d-array](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/1480-running-sum-of-1d-array) |
@@ -32,6 +33,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [leetcode/medium/0209-minimum-size-subarray-sum](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0209-minimum-size-subarray-sum) |
 | [leetcode/easy/1480-running-sum-of-1d-array](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [leetcode/medium/0167-two-sum-ii-input-array-is-sorted](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0167-two-sum-ii-input-array-is-sorted) |
+| [leetcode/medium/0209-minimum-size-subarray-sum](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0209-minimum-size-subarray-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -91,4 +94,8 @@
 |  |
 | ------- |
 | [leetcode/easy/4052-cyclically-shift-rows-and-columns](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/4052-cyclically-shift-rows-and-columns) |
+## Sliding Window
+|  |
+| ------- |
+| [leetcode/medium/0209-minimum-size-subarray-sum](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
